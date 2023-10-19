@@ -1,0 +1,1 @@
+Large Machine Vise with Trapezoidal Thread by blecheimer on Thingiverse: https://www.thingiverse.com/thing:6236332

@@ -1,0 +1,54 @@
+Thanks so much for purchasing this download and for supporting the JBV Creative Studio!
+
+I have improved my file layout so all you have to do is drop all the files into 
+your slicer and hit print.  If you would like to mix up the colour scheme 
+(which I highly recommend XD) there is a parts list below so you can make
+sure you have everything you need.
+
+If you have any questions or need any help while printing or assembling this piece, 
+please do not hesitate to reach out to me at jbvcreative@gmail.com
+
+--Recommended print settings--
+
+0.4mm nozzle
+0.2mm layer height
+18%-25% infill
+**No Support Necessary! 
+
+(I recommend using 100% infill for the drill attachment part 
+
+--Print Time--
+Build Time: 12 hours
+
+
+
+--Required Part list--
+Spinner x1
+Small C-Clamp x1
+Large C-Clmap x3 (all three are in the same file)
+Round-Hex Shaft x2 (both are in the same file)
+Jayblade (2 styles available- please note the weight screws are not necessary
+	  but if you want to add them, #4x1/4in screws will work or 3mm metric)
+Hex-Round-Hex x1
+Handle x1
+Crank x1
+Crank Knob x1
+Base x1
+90 Tooth Gear x1
+60 Tooth Gear x1
+20 Tooth Gear x2 (both are in the same file)
+
+--Optional--
+Drill Adaptor Shaft x1 (print this part with 100% infill for strength)
+
+--Rev. 2 Changes--
+Added the Heli Coupler and Heli as well as made some improvements to the overall design to make it more robust and drill friendly.
+
+
+
+
+
+Disclaimer: These files are for personal use only and cannot be copied or sold. 
+If you have any questions, feel free to reach out.
+
+©JBVCreative
